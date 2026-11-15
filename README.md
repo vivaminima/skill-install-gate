@@ -2,6 +2,8 @@
 
 *Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
 
+<img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/run/skill-install-gate.png" width="760" alt="skill-install-gate: real output of the free version on a made-up sample">
+
 Look at a Claude Code skill before you install it. Give it the folder or ZIP you downloaded; it checks a temporary copy and gives one of three verdicts, with the reason and the line for each.
 
 ## New to this? Start here
