@@ -1,0 +1,18 @@
+{
+  "name": "skill-install-gate",
+  "description": "Look at a Claude Code skill before you install it: a check of a temporary copy with one of three verdicts.",
+  "author": {
+    "name": "Vivaminima",
+    "url": "https://github.com/vivaminima"
+  },
+  "homepage": "https://vivastory4.gumroad.com/l/skill-install-gate-pro",
+  "repository": "https://github.com/vivaminima/skill-install-gate",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "cli",
+    "developer-tools",
+    "security"
+  ]
+}
